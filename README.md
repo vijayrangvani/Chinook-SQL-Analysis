@@ -22,7 +22,6 @@ This analysis aims to answer the following key business questions:
 3. Which artist has contributed the maximum number of tracks?
 4. Which city has the best customers based on purchases?
 5. Who is the best customer based on total spending?
-6. ... (Add more business questions as needed)
 
 For the detailed business questions and SQL queries used, refer to the [`business_questions.md`](./business_questions.md) file.
 
