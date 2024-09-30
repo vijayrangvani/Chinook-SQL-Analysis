@@ -68,11 +68,11 @@ Through this SQL analysis of the Chinook digital music store database, we’ve g
 
 - **chinook_analysis.sql**: Contains all SQL queries used for the analysis.
 - **business_questions.md**: Explains the business questions and corresponding SQL queries.
-- **Chinook_Sqlite.sqlite**: The Chinook database used for analysis (downloadable).
+- **Chinook_MySQL**: The Chinook database used for analysis (downloadable).
 
 ## How to Use This Repository
 
-1. Download the `Chinook_Sqlite.sqlite` file from this repository.
+1. Download the `Chinook_MySQL` file from this repository.
 2. Use the SQL queries in the `chinook_analysis.sql` file to run analysis in your preferred SQL environment.
 3. Review the business questions in `business_questions.md` for a detailed understanding of the queries used.
 
